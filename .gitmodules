@@ -1,0 +1,6 @@
+[submodule "sfIII3-cps3-decomp"]
+	path = sfIII3-cps3-decomp
+	url = https://github.com/gibletto/sfIII3-cps3-decomp.git
+[submodule "3sx"]
+	path = 3sx
+	url = https://github.com/crowded-street/3sx.git
